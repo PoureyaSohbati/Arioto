@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine.UI;
 
-public class healthAndShit : MonoBehaviour {
+public class health : MonoBehaviour {
 	int health;
 	int numAttack;
 	int damage;
