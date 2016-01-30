@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine.UI;
 
-public class health : MonoBehaviour {
+public class PlayerInfoText : MonoBehaviour {
 	int health;
 	int numAttack;
 	int damage;

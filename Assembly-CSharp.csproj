@@ -54,6 +54,7 @@
      <Compile Include="Assets\Scripts\Grid.cs" />
      <Compile Include="Assets\Scripts\ListState.cs" />
      <Compile Include="Assets\Scripts\PathFinding.cs" />
+     <Compile Include="Assets\Scripts\PlayerInfoText.cs" />
      <Compile Include="Assets\Scripts\attacker.cs" />
      <Compile Include="Assets\Scripts\characters.cs" />
      <Compile Include="Assets\Scripts\diagonaller.cs" />
@@ -61,7 +62,6 @@
      <Compile Include="Assets\Scripts\enemy.cs" />
      <Compile Include="Assets\Scripts\gameManager.cs" />
      <Compile Include="Assets\Scripts\healer.cs" />
-     <Compile Include="Assets\Scripts\health.cs" />
      <Compile Include="Assets\Scripts\playerLevelManager.cs" />
      <Compile Include="Assets\Scripts\playerStateNode.cs" />
      <Compile Include="Assets\Scripts\position.cs" />
